@@ -13,3 +13,4 @@ screenshots
 *.out
 __pycache__
 dataset
+data
